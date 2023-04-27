@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resource>
+<string name="app_name">socialsignup</string>
+
+<string name="facebook_app_id">953302632337363</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">5b3c21f6a3fd9f4e69d2b4e8fd92ae2c</string>
+
+
+</resource>

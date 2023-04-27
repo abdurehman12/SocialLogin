@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342802674902",
+    "project_id": "socialsignup-36839",
+    "storage_bucket": "socialsignup-36839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342802674902:android:8c454ea7fcef8484110577",
+        "android_client_info": {
+          "package_name": "com.example.socialsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342802674902-kha1n52q4i4897h6qg29q75cu7p46mi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqo-WoQ2hi5JveE1c4rIe9l-80tyAQKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342802674902-kha1n52q4i4897h6qg29q75cu7p46mi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
